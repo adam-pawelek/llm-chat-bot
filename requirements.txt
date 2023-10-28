@@ -1,0 +1,6 @@
+
+transformers==4.34.1
+sentencepiece
+ibm-generative-ai[localserver]
+python-dotenv
+langchain
